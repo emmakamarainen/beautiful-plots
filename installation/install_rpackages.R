@@ -23,4 +23,4 @@ pkg_list <- c(
 	'caret'
 )
 
-install.packages(pkg_list)
+install.packages(p)
