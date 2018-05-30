@@ -15,6 +15,7 @@ pkg_list <- c(
 	'rjson',
 	'RPostgres',
 	'iotools',
+	'devtools',
 
 	'glmnet',
 	'randomForest',
@@ -24,3 +25,4 @@ pkg_list <- c(
 )
 
 install.packages(pkg_list)
+
